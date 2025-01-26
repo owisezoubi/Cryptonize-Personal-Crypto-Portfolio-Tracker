@@ -6,7 +6,7 @@ Cryptonize is a modern cryptocurrency portfolio tracker built with React.js, ena
 
 
 
-🚀 Features
+🚀 Features:
 
 🔗 Connect Your Wallet
 
@@ -60,7 +60,7 @@ Install Dependencies
   
     npm install
 
-    Run the Development Server
+Run the Development Server
 
     npm run dev
 
